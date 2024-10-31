@@ -1,0 +1,8 @@
+.feedbackItem {
+  font-weight: 600;
+  font-size: 18px;
+}
+
+.feedbackItem > span {
+  color: rgb(0, 53, 128);
+}
